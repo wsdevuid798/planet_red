@@ -4,3 +4,9 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+crossterm = "0.28.1"
+ratatui = "0.28.1"
+rand = "0.8.5"
+serde = "1.0.210"
+anyhow = "1.0.88"
+log = "0.4.22"
